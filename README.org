@@ -1,0 +1,5 @@
+* labview hacking
+** 说明
+写这一份笔记的时候还想，要不不再单独创建一个repo了。最终还是创建了，因为我觉得知识应该在人脑中不断进行聚合，但是在管理上应该尽量分类精细。
+** 学习笔记
+- [[https://blog.csdn.net/grey_csdn/article/details/130758664][1714_Labview操作基础小结]]
