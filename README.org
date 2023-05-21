@@ -4,3 +4,4 @@
 ** 学习笔记
 - [[https://blog.csdn.net/grey_csdn/article/details/130758664][1714_Labview操作基础小结]]
 - [[https://blog.csdn.net/grey_csdn/article/details/130783889][1715_Labview创建数组输入控件]]
+- [[https://blog.csdn.net/grey_csdn/article/details/130795467][1716_Labview数据转化与连线编辑]] 
